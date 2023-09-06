@@ -1,2 +1,5 @@
 Hello, ini adalah repository pertama 
-hai
+nama    : cindy nur khoiriyah
+kelas   : 1c
+jurusan : Teknologi informasi
+Prodi   : Teknik Informatika
